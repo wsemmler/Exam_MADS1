@@ -1,0 +1,11 @@
+# macOS system files
+.DS_Store
+
+# Python files you don't want to track
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
